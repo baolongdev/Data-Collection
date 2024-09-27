@@ -1,0 +1,1001 @@
+Person ID,Gender,Age,Job,Income per week,State,Suburb,Marital Status,Hobby
+1001,Male,25,Education and Training,338,VIC,Ballarat,Widowed,Volunteering
+1002,Female,98,Tourism and Services,3591,NSW,Sydney,Married,Painting
+1003,Male,83,Sports and Recreation,1574,NSW,Parramatta,Widowed,Volunteering
+1004,Male,34,Arts and Design,2805,NSW,Sydney,Widowed,Woodworking
+1005,Female,41,Event Management,2178,NSW,Wollongong,Married,Gaming
+1006,Female,67,Energy and Environment,1181,NSW,Parramatta,Married,Cycling
+1007,Female,39,Biotechnology,2109,QLD,Cairns,Single,Hiking
+1008,Female,80,Arts and Design,2525,NSW,Penrith,Widowed,Astronomy
+1009,Female,82,Arts and Design,3191,NSW,Sydney,Married,Dancing
+1010,Female,86,Transportation and Logistics,3729,QLD,Townsville,Widowed,Swimming
+1011,Male,84,Aerospace,828,NSW,Newcastle,Married,Dancing
+1012,Male,55,Agriculture and Environmental Resources,701,WA,Bunbury,Single,Knitting
+1013,Male,63,Event Management,3765,VIC,Geelong,Widowed,Photography
+1014,Female,56,Science and Research,2507,NSW,Parramatta,Married,Birdwatching
+1015,Male,45,Business and Management,2332,NSW,Wollongong,Married,Surfing
+1016,Male,27,Agriculture and Environmental Resources,1711,QLD,Brisbane,Married,Traveling
+1017,Male,12,Education,0,VIC,Melbourne,Divorced,Dancing
+1018,Male,25,Real Estate,761,NSW,Sydney,Single,Writing
+1019,Male,66,Education and Training,3077,NSW,Newcastle,Single,Camping
+1020,Female,94,Food Processing Industry,2022,SA,Port Augusta,Widowed,Birdwatching
+1021,Female,4,Education,0,NSW,Newcastle,Widowed,Woodworking
+1022,Male,89,Agriculture and Environmental Resources,3278,NSW,Newcastle,Single,Collecting
+1023,Female,79,Food Processing Industry,2996,NT,Darwin,Single,Traveling
+1024,Male,17,Education,0,WA,Bunbury,Divorced,Gaming
+1025,Male,81,Transportation and Logistics,494,WA,Geraldton,Single,Painting
+1026,Male,10,Education,0,SA,Whyalla,Married,Dancing
+1027,Female,78,Biotechnology,2256,SA,Mount Gambier,Divorced,Playing music
+1028,Male,41,Media and Entertainment,340,NSW,Sydney,Divorced,Photography
+1029,Female,85,Agriculture and Environmental Resources,3409,WA,Mandurah,Married,Knitting
+1030,Male,56,Sports and Recreation,1087,NSW,Penrith,Married,Cooking
+1031,Male,22,Tourism and Services,3939,NT,Nhulunbuy,Widowed,Playing music
+1032,Male,40,Sports and Recreation,3948,SA,Whyalla,Widowed,Photography
+1033,Male,19,Tourism and Services,1475,NSW,Newcastle,Divorced,Volunteering
+1034,Female,81,Biotechnology,3075,SA,Port Augusta,Divorced,Swimming
+1035,Male,96,Aerospace,1906,NSW,Newcastle,Married,Meditation
+1036,Female,88,Aerospace,3442,NSW,Penrith,Divorced,Cooking
+1037,Male,70,Real Estate,1325,QLD,Townsville,Widowed,Collecting
+1038,Female,16,Education,0,NSW,Newcastle,Divorced,Birdwatching
+1039,Male,6,Education,0,WA,Mandurah,Single,Swimming
+1040,Male,36,Event Management,2266,TAS,Devonport,Widowed,Swimming
+1041,Male,38,Biotechnology,693,NSW,Newcastle,Single,Knitting
+1042,Male,100,Business and Management,527,VIC,Wodonga,Single,Gardening
+1043,Female,25,Finance and Banking,3592,NSW,Penrith,Single,Gaming
+1044,Female,80,Security and Defense,3202,NSW,Sydney,Divorced,Cycling
+1045,Male,42,Event Management,3896,NSW,Wollongong,Widowed,Volunteering
+1046,Female,54,E-commerce,3924,NSW,Sydney,Divorced,Painting
+1047,Male,77,Aerospace,414,QLD,Gold Coast,Single,Traveling
+1048,Male,15,Education,0,NSW,Parramatta,Married,Hiking
+1049,Male,71,Education and Training,2797,QLD,Sunshine Coast,Widowed,Camping
+1050,Male,46,Agriculture and Environmental Resources,3446,QLD,Cairns,Single,Knitting
+1051,Male,43,Agriculture and Environmental Resources,3896,VIC,Wodonga,Single,Traveling
+1052,Male,31,Aerospace,2420,NSW,Penrith,Divorced,Hiking
+1053,Female,39,Business and Management,3310,NSW,Sydney,Divorced,Yoga
+1054,Male,45,Biotechnology,1140,WA,Mandurah,Married,Meditation
+1055,Male,14,Education,0,NSW,Sydney,Married,Yoga
+1056,Male,42,Tourism and Services,3553,NSW,Penrith,Divorced,Gardening
+1057,Male,9,Education,0,NSW,Parramatta,Divorced,Painting
+1058,Male,50,Health and Healthcare,931,NSW,Parramatta,Single,Volunteering
+1059,Male,48,Customer Service,3129,NSW,Newcastle,Widowed,Playing music
+1060,Male,12,Education,0,NSW,Sydney,Widowed,Camping
+1061,Female,68,Tourism and Services,1326,NSW,Newcastle,Divorced,Camping
+1062,Female,66,Psychology and Mental Health,791,WA,Mandurah,Widowed,Cycling
+1063,Male,5,Education,0,NSW,Wollongong,Married,Gardening
+1064,Male,78,Aerospace,3068,SA,Whyalla,Single,Dancing
+1065,Male,28,Science and Research,462,NSW,Newcastle,Divorced,Yoga
+1066,Female,63,E-commerce,1540,QLD,Cairns,Divorced,Writing
+1067,Male,57,Biotechnology,2414,SA,Mount Gambier,Single,Yoga
+1068,Female,30,Energy and Environment,1662,VIC,Geelong,Single,Playing music
+1069,Female,18,Education and Training,675,NSW,Parramatta,Divorced,Woodworking
+1070,Male,28,Business and Management,1836,QLD,Townsville,Single,Yoga
+1071,Female,62,Science and Research,2261,VIC,Ballarat,Widowed,Cycling
+1072,Male,98,Sports and Recreation,1909,VIC,Melbourne,Married,Cooking
+1073,Male,79,Food Processing Industry,2792,WA,Perth,Married,Woodworking
+1074,Female,17,Education,0,NSW,Parramatta,Single,Swimming
+1075,Female,27,Architecture and Construction,895,NSW,Parramatta,Widowed,Writing
+1076,Male,64,Real Estate,1184,VIC,Bendigo,Widowed,Camping
+1077,Female,8,Education,0,TAS,Launceston,Married,Reading
+1078,Female,35,Manufacturing,753,VIC,Bendigo,Single,Yoga
+1079,Female,56,Food Processing Industry,686,NSW,Penrith,Divorced,Birdwatching
+1080,Female,53,Real Estate,1376,VIC,Wodonga,Single,Collecting
+1081,Female,99,Arts and Design,477,NSW,Sydney,Married,Woodworking
+1082,Male,67,Information Technology (IT),1186,QLD,Townsville,Single,Meditation
+1083,Female,39,Tourism and Services,615,NSW,Sydney,Widowed,Swimming
+1084,Female,62,Aerospace,2673,NSW,Sydney,Married,Yoga
+1085,Female,58,Agriculture and Environmental Resources,578,NSW,Sydney,Single,Hiking
+1086,Female,73,Finance and Banking,2173,QLD,Sunshine Coast,Divorced,Woodworking
+1087,Female,24,Energy and Environment,3661,NSW,Newcastle,Single,Dancing
+1088,Male,22,Biotechnology,3703,SA,Whyalla,Single,Camping
+1089,Male,4,Education,0,NSW,Sydney,Single,Photography
+1090,Male,48,Food Processing Industry,769,NSW,Sydney,Married,Volunteering
+1091,Female,68,Architecture and Construction,2040,SA,Port Augusta,Divorced,Woodworking
+1092,Male,45,Biotechnology,317,QLD,Gold Coast,Widowed,Painting
+1093,Male,4,Education,0,NSW,Sydney,Married,Camping
+1094,Male,38,Education and Training,2024,TAS,Devonport,Married,Cycling
+1095,Female,81,Security and Defense,1857,SA,Whyalla,Married,Traveling
+1096,Female,47,Business and Management,1722,SA,Mount Gambier,Single,Woodworking
+1097,Male,14,Education,0,QLD,Cairns,Married,Gardening
+1098,Female,77,Real Estate,1435,NSW,Penrith,Divorced,Yoga
+1099,Male,18,Media and Entertainment,491,VIC,Geelong,Single,Birdwatching
+1100,Male,92,Tourism and Services,2582,QLD,Gold Coast,Divorced,Yoga
+1101,Male,65,Biotechnology,2921,VIC,Bendigo,Married,Yoga
+1102,Female,20,Customer Service,3290,WA,Fremantle,Married,Fishing
+1103,Male,65,Manufacturing,3837,VIC,Geelong,Married,Writing
+1104,Female,44,Architecture and Construction,411,VIC,Geelong,Married,Cooking
+1105,Female,21,Finance and Banking,1624,NSW,Parramatta,Widowed,Reading
+1106,Female,64,Security and Defense,3410,NSW,Penrith,Divorced,Cycling
+1107,Female,98,Chemistry and Materials,1584,NSW,Penrith,Widowed,Swimming
+1108,Male,11,Education,0,QLD,Brisbane,Divorced,Surfing
+1109,Female,36,Biotechnology,3077,NSW,Parramatta,Single,Reading
+1110,Female,5,Education,0,VIC,Melbourne,Divorced,Astronomy
+1111,Male,70,Sports and Recreation,1118,NSW,Parramatta,Divorced,Dancing
+1112,Male,99,Information Technology (IT),1601,NSW,Sydney,Married,Astronomy
+1113,Female,76,Manufacturing,379,QLD,Townsville,Widowed,Woodworking
+1114,Female,65,"Personal Care (Beauty, Spa)",2071,QLD,Sunshine Coast,Divorced,Reading
+1115,Male,48,Security and Defense,1512,NSW,Wollongong,Divorced,Camping
+1116,Female,91,Business and Management,1785,NSW,Newcastle,Widowed,Photography
+1117,Female,36,Customer Service,2881,NSW,Sydney,Married,Yoga
+1118,Female,16,Education,0,NSW,Wollongong,Divorced,Gaming
+1119,Male,91,Biotechnology,2693,NSW,Parramatta,Married,Birdwatching
+1120,Female,65,Manufacturing,1872,TAS,Burnie,Single,Cycling
+1121,Female,90,Chemistry and Materials,1320,VIC,Melbourne,Single,Cooking
+1122,Female,49,Business and Management,3600,SA,Whyalla,Widowed,Cycling
+1123,Female,63,Psychology and Mental Health,830,NSW,Wollongong,Married,Hiking
+1124,Female,33,E-commerce,2006,SA,Mount Gambier,Single,Traveling
+1125,Male,45,Arts and Design,568,NSW,Newcastle,Divorced,Traveling
+1126,Female,6,Education,0,QLD,Cairns,Single,Cooking
+1127,Male,85,Science and Research,3427,NSW,Sydney,Married,Hiking
+1128,Female,58,Science and Research,2145,SA,Adelaide,Widowed,Meditation
+1129,Male,4,Education,0,NSW,Wollongong,Widowed,Collecting
+1130,Male,67,Architecture and Construction,3696,NSW,Sydney,Divorced,Reading
+1131,Male,26,E-commerce,1241,VIC,Geelong,Married,Volunteering
+1132,Male,68,Transportation and Logistics,1793,NSW,Wollongong,Married,Swimming
+1133,Female,10,Education,0,VIC,Wodonga,Divorced,Collecting
+1134,Female,18,Psychology and Mental Health,549,QLD,Gold Coast,Widowed,Yoga
+1135,Female,65,Architecture and Construction,1072,QLD,Townsville,Widowed,Birdwatching
+1136,Male,32,Education and Training,3183,VIC,Ballarat,Single,Playing music
+1137,Male,65,Psychology and Mental Health,1256,NSW,Newcastle,Divorced,Gardening
+1138,Female,25,Media and Entertainment,2106,NSW,Sydney,Widowed,Writing
+1139,Female,60,Architecture and Construction,2559,NSW,Newcastle,Single,Yoga
+1140,Female,70,Science and Research,1575,SA,Port Lincoln,Married,Volunteering
+1141,Male,5,Education,0,SA,Whyalla,Single,Cycling
+1142,Female,57,Customer Service,3737,VIC,Wodonga,Married,Astronomy
+1143,Male,45,Arts and Design,1115,QLD,Sunshine Coast,Divorced,Hiking
+1144,Female,6,Education,0,NT,Palmerston,Divorced,Surfing
+1145,Male,98,Health and Healthcare,591,NSW,Wollongong,Married,Knitting
+1146,Male,14,Education,0,VIC,Geelong,Divorced,Fishing
+1147,Female,48,Chemistry and Materials,1023,NSW,Newcastle,Married,Volunteering
+1148,Female,99,Arts and Design,523,WA,Bunbury,Widowed,Traveling
+1149,Female,87,Manufacturing,3685,VIC,Wodonga,Widowed,Volunteering
+1150,Female,100,Real Estate,430,NSW,Wollongong,Divorced,Fishing
+1151,Male,77,Security and Defense,3311,TAS,Burnie,Single,Meditation
+1152,Female,5,Education,0,VIC,Melbourne,Married,Gaming
+1153,Male,64,Tourism and Services,3809,QLD,Gold Coast,Widowed,Surfing
+1154,Female,12,Education,0,QLD,Sunshine Coast,Widowed,Reading
+1155,Male,81,Finance and Banking,2795,NSW,Parramatta,Single,Painting
+1156,Male,99,Finance and Banking,1451,VIC,Geelong,Divorced,Camping
+1157,Male,76,Finance and Banking,2317,SA,Whyalla,Divorced,Fishing
+1158,Male,43,Architecture and Construction,3208,SA,Port Augusta,Married,Cycling
+1159,Female,49,Chemistry and Materials,1133,QLD,Gold Coast,Divorced,Dancing
+1160,Male,64,Sports and Recreation,1574,NSW,Parramatta,Married,Fishing
+1161,Male,65,Fisheries and Forestry,3273,NSW,Newcastle,Divorced,Birdwatching
+1162,Male,69,Law and Public Administration,2117,VIC,Geelong,Divorced,Yoga
+1163,Male,89,Energy and Environment,3633,QLD,Sunshine Coast,Widowed,Meditation
+1164,Male,16,Education,0,NSW,Penrith,Divorced,Meditation
+1165,Male,66,Customer Service,3801,QLD,Cairns,Divorced,Woodworking
+1166,Female,58,Information Technology (IT),918,SA,Port Lincoln,Widowed,Swimming
+1167,Male,62,Health and Healthcare,2514,NSW,Newcastle,Widowed,Surfing
+1168,Male,86,Education and Training,3542,NSW,Parramatta,Single,Volunteering
+1169,Female,92,Business and Management,947,QLD,Townsville,Widowed,Knitting
+1170,Male,30,Education and Training,1182,VIC,Melbourne,Single,Dancing
+1171,Male,33,Customer Service,475,QLD,Cairns,Married,Surfing
+1172,Male,98,Engineering and Industry,775,NSW,Sydney,Single,Dancing
+1173,Male,4,Education,0,NSW,Parramatta,Single,Hiking
+1174,Male,8,Education,0,QLD,Brisbane,Married,Painting
+1175,Male,4,Education,0,NSW,Sydney,Widowed,Dancing
+1176,Male,38,Arts and Design,1165,NSW,Penrith,Married,Swimming
+1177,Female,46,Media and Entertainment,938,NSW,Wollongong,Married,Volunteering
+1178,Female,72,Agriculture and Environmental Resources,2306,QLD,Townsville,Single,Gaming
+1179,Female,76,"Personal Care (Beauty, Spa)",713,NSW,Newcastle,Single,Photography
+1180,Male,75,Law and Public Administration,3358,WA,Bunbury,Widowed,Camping
+1181,Female,89,Law and Public Administration,1736,NSW,Penrith,Single,Playing music
+1182,Female,27,Media and Entertainment,1672,SA,Adelaide,Divorced,Camping
+1183,Male,39,Engineering and Industry,3763,TAS,Hobart,Divorced,Reading
+1184,Male,68,"Personal Care (Beauty, Spa)",3560,NSW,Parramatta,Single,Photography
+1185,Male,78,Education and Training,3418,NSW,Penrith,Widowed,Fishing
+1186,Male,17,Education,0,NSW,Wollongong,Widowed,Cooking
+1187,Female,47,Agriculture and Environmental Resources,532,NSW,Newcastle,Divorced,Gaming
+1188,Female,39,Energy and Environment,2796,QLD,Sunshine Coast,Married,Surfing
+1189,Female,72,Arts and Design,3000,VIC,Geelong,Married,Photography
+1190,Female,72,Business and Management,3501,TAS,Kingston,Divorced,Photography
+1191,Male,58,Security and Defense,418,NSW,Newcastle,Married,Volunteering
+1192,Male,64,Engineering and Industry,1014,SA,Adelaide,Divorced,Painting
+1193,Female,59,Event Management,3473,QLD,Gold Coast,Single,Meditation
+1194,Female,100,Engineering and Industry,2608,NSW,Wollongong,Single,Dancing
+1195,Male,11,Education,0,ACT,Belconnen,Widowed,Surfing
+1196,Male,96,Media and Entertainment,1891,NSW,Newcastle,Single,Birdwatching
+1197,Male,83,Engineering and Industry,3708,NSW,Parramatta,Widowed,Astronomy
+1198,Male,85,E-commerce,2484,NSW,Sydney,Married,Astronomy
+1199,Female,57,Chemistry and Materials,939,VIC,Ballarat,Married,Reading
+1200,Male,4,Education,0,WA,Mandurah,Single,Birdwatching
+1201,Male,77,Fisheries and Forestry,1500,NSW,Wollongong,Single,Camping
+1202,Male,73,Chemistry and Materials,396,QLD,Brisbane,Married,Hiking
+1203,Male,14,Education,0,NSW,Sydney,Divorced,Camping
+1204,Male,69,Business and Management,3451,NSW,Penrith,Divorced,Birdwatching
+1205,Male,53,Biotechnology,2867,SA,Mount Gambier,Single,Traveling
+1206,Male,48,Energy and Environment,3080,NSW,Wollongong,Divorced,Fishing
+1207,Male,14,Education,0,QLD,Townsville,Single,Meditation
+1208,Female,57,Tourism and Services,1307,NSW,Parramatta,Single,Birdwatching
+1209,Female,72,Event Management,2721,NSW,Parramatta,Single,Writing
+1210,Male,84,Psychology and Mental Health,3218,QLD,Townsville,Single,Gardening
+1211,Female,24,Tourism and Services,2093,SA,Port Lincoln,Divorced,Playing music
+1212,Female,65,Biotechnology,1465,WA,Fremantle,Single,Astronomy
+1213,Male,95,Energy and Environment,1857,QLD,Townsville,Widowed,Traveling
+1214,Female,29,Sports and Recreation,2024,VIC,Ballarat,Married,Meditation
+1215,Female,65,Manufacturing,820,NSW,Penrith,Single,Photography
+1216,Female,97,Architecture and Construction,3876,VIC,Geelong,Single,Surfing
+1217,Male,56,Psychology and Mental Health,2872,QLD,Cairns,Widowed,Painting
+1218,Male,63,Real Estate,3277,NSW,Penrith,Widowed,Knitting
+1219,Male,98,Agriculture and Environmental Resources,478,NT,Katherine,Single,Knitting
+1220,Male,81,Food Processing Industry,3269,SA,Adelaide,Divorced,Swimming
+1221,Female,73,Arts and Design,1806,NSW,Wollongong,Single,Cycling
+1222,Male,41,Event Management,3888,NSW,Newcastle,Widowed,Surfing
+1223,Male,61,Arts and Design,1837,NSW,Parramatta,Widowed,Volunteering
+1224,Female,41,Security and Defense,3661,VIC,Melbourne,Widowed,Fishing
+1225,Male,69,Event Management,3260,QLD,Gold Coast,Divorced,Reading
+1226,Male,22,Tourism and Services,2437,VIC,Ballarat,Single,Writing
+1227,Male,66,"Personal Care (Beauty, Spa)",2951,NT,Katherine,Widowed,Reading
+1228,Male,35,Fisheries and Forestry,2749,WA,Bunbury,Divorced,Yoga
+1229,Female,76,Agriculture and Environmental Resources,3091,NSW,Parramatta,Married,Gaming
+1230,Female,71,Law and Public Administration,2171,NSW,Parramatta,Widowed,Gaming
+1231,Male,53,Fisheries and Forestry,3687,NSW,Penrith,Married,Birdwatching
+1232,Female,58,Business and Management,320,NSW,Penrith,Married,Painting
+1233,Female,36,Tourism and Services,1030,QLD,Sunshine Coast,Single,Traveling
+1234,Female,10,Education,0,NSW,Penrith,Divorced,Meditation
+1235,Male,42,Fashion Industry,1729,NSW,Sydney,Married,Cycling
+1236,Male,81,Biotechnology,3506,QLD,Townsville,Married,Traveling
+1237,Male,88,Manufacturing,3302,NSW,Penrith,Single,Photography
+1238,Male,14,Education,0,NSW,Penrith,Married,Meditation
+1239,Male,58,Agriculture and Environmental Resources,2370,NSW,Sydney,Widowed,Swimming
+1240,Female,6,Education,0,NSW,Sydney,Single,Traveling
+1241,Male,73,Business and Management,1627,NSW,Parramatta,Divorced,Painting
+1242,Female,43,Transportation and Logistics,3149,NSW,Penrith,Divorced,Painting
+1243,Male,93,Fisheries and Forestry,1592,TAS,Hobart,Widowed,Swimming
+1244,Male,67,Fisheries and Forestry,580,NSW,Newcastle,Single,Cooking
+1245,Female,60,"Personal Care (Beauty, Spa)",3042,QLD,Cairns,Widowed,Collecting
+1246,Male,88,Psychology and Mental Health,1094,SA,Mount Gambier,Single,Woodworking
+1247,Female,46,Food Processing Industry,2126,NSW,Sydney,Married,Woodworking
+1248,Male,98,Aerospace,1733,VIC,Bendigo,Married,Playing music
+1249,Female,81,Fashion Industry,3923,QLD,Cairns,Single,Birdwatching
+1250,Male,81,Business and Management,2691,NSW,Wollongong,Married,Yoga
+1251,Male,28,Real Estate,2469,VIC,Melbourne,Widowed,Hiking
+1252,Female,31,Event Management,1663,NSW,Wollongong,Widowed,Writing
+1253,Female,24,Customer Service,2824,NSW,Penrith,Single,Traveling
+1254,Male,50,Fashion Industry,3516,WA,Geraldton,Widowed,Yoga
+1255,Male,79,Agriculture and Environmental Resources,1964,VIC,Melbourne,Married,Astronomy
+1256,Male,70,Law and Public Administration,3481,WA,Bunbury,Divorced,Dancing
+1257,Female,53,Architecture and Construction,2583,VIC,Wodonga,Married,Hiking
+1258,Female,62,Customer Service,2324,SA,Port Augusta,Divorced,Painting
+1259,Male,17,Education,0,VIC,Geelong,Widowed,Reading
+1260,Female,35,Aerospace,3663,QLD,Brisbane,Single,Cycling
+1261,Male,49,Fashion Industry,3694,VIC,Ballarat,Divorced,Woodworking
+1262,Female,37,Energy and Environment,1693,NSW,Parramatta,Widowed,Collecting
+1263,Male,44,Media and Entertainment,2077,VIC,Bendigo,Married,Gardening
+1264,Female,69,Information Technology (IT),2970,WA,Mandurah,Divorced,Fishing
+1265,Male,83,Information Technology (IT),2421,QLD,Cairns,Single,Traveling
+1266,Male,89,Food Processing Industry,2435,SA,Whyalla,Single,Surfing
+1267,Female,73,Finance and Banking,2485,VIC,Wodonga,Widowed,Playing music
+1268,Male,40,Engineering and Industry,1089,QLD,Cairns,Widowed,Hiking
+1269,Male,100,"Personal Care (Beauty, Spa)",3188,QLD,Brisbane,Married,Surfing
+1270,Male,18,Health and Healthcare,964,QLD,Townsville,Widowed,Woodworking
+1271,Male,44,Real Estate,3561,QLD,Sunshine Coast,Widowed,Gardening
+1272,Male,84,Psychology and Mental Health,1659,NSW,Sydney,Divorced,Knitting
+1273,Female,30,Transportation and Logistics,1215,SA,Port Augusta,Widowed,Writing
+1274,Female,86,Transportation and Logistics,3696,VIC,Geelong,Divorced,Woodworking
+1275,Male,55,Tourism and Services,3594,WA,Perth,Divorced,Writing
+1276,Male,56,Fisheries and Forestry,1536,WA,Perth,Single,Surfing
+1277,Female,50,Sports and Recreation,614,TAS,Hobart,Divorced,Collecting
+1278,Female,6,Education,0,NSW,Newcastle,Widowed,Hiking
+1279,Female,79,Manufacturing,1104,NSW,Parramatta,Divorced,Astronomy
+1280,Female,45,Manufacturing,2637,SA,Mount Gambier,Widowed,Birdwatching
+1281,Male,43,Real Estate,1829,NSW,Newcastle,Single,Camping
+1282,Male,26,Sports and Recreation,3185,TAS,Hobart,Single,Collecting
+1283,Male,44,Science and Research,2064,VIC,Melbourne,Single,Swimming
+1284,Female,53,Information Technology (IT),3557,NSW,Parramatta,Divorced,Hiking
+1285,Female,10,Education,0,QLD,Gold Coast,Divorced,Astronomy
+1286,Female,60,E-commerce,1709,WA,Geraldton,Widowed,Photography
+1287,Male,21,Arts and Design,1542,NSW,Parramatta,Married,Cooking
+1288,Male,86,Real Estate,3594,VIC,Melbourne,Divorced,Cycling
+1289,Female,48,Science and Research,3361,QLD,Cairns,Divorced,Collecting
+1290,Female,62,Energy and Environment,3918,QLD,Gold Coast,Widowed,Volunteering
+1291,Female,87,Sports and Recreation,1997,TAS,Burnie,Divorced,Surfing
+1292,Male,7,Education,0,NSW,Wollongong,Married,Woodworking
+1293,Male,97,Health and Healthcare,922,NT,Alice Springs,Widowed,Astronomy
+1294,Male,23,E-commerce,3738,NSW,Parramatta,Married,Fishing
+1295,Male,57,Business and Management,1044,TAS,Hobart,Single,Painting
+1296,Female,48,Arts and Design,321,NSW,Sydney,Single,Dancing
+1297,Male,71,E-commerce,544,NT,Nhulunbuy,Widowed,Cooking
+1298,Female,91,Media and Entertainment,1143,VIC,Ballarat,Single,Playing music
+1299,Male,13,Education,0,WA,Fremantle,Married,Traveling
+1300,Male,37,"Personal Care (Beauty, Spa)",2769,WA,Fremantle,Single,Cooking
+1301,Female,15,Education,0,NT,Katherine,Widowed,Knitting
+1302,Female,98,Customer Service,1972,NSW,Penrith,Widowed,Writing
+1303,Male,85,Transportation and Logistics,1306,NSW,Sydney,Married,Astronomy
+1304,Female,18,Agriculture and Environmental Resources,497,QLD,Brisbane,Divorced,Gardening
+1305,Male,47,E-commerce,3961,NSW,Penrith,Widowed,Dancing
+1306,Female,74,Customer Service,2652,NSW,Parramatta,Divorced,Astronomy
+1307,Female,98,Sports and Recreation,1781,NSW,Sydney,Widowed,Cycling
+1308,Male,86,Security and Defense,575,VIC,Wodonga,Married,Dancing
+1309,Male,42,Transportation and Logistics,3862,VIC,Melbourne,Divorced,Swimming
+1310,Male,67,E-commerce,1366,NSW,Wollongong,Divorced,Writing
+1311,Male,94,Transportation and Logistics,2762,NSW,Parramatta,Divorced,Fishing
+1312,Male,61,Psychology and Mental Health,539,NSW,Parramatta,Married,Fishing
+1313,Male,23,Information Technology (IT),393,NSW,Sydney,Single,Birdwatching
+1314,Female,23,Law and Public Administration,558,WA,Fremantle,Single,Writing
+1315,Female,83,Tourism and Services,2363,NSW,Penrith,Married,Traveling
+1316,Male,89,Transportation and Logistics,3237,VIC,Geelong,Widowed,Gardening
+1317,Female,38,Education and Training,953,NSW,Wollongong,Divorced,Dancing
+1318,Male,58,Finance and Banking,3855,NSW,Newcastle,Single,Hiking
+1319,Female,17,Education,0,NSW,Wollongong,Divorced,Painting
+1320,Male,73,Science and Research,3287,NSW,Wollongong,Widowed,Swimming
+1321,Female,51,Tourism and Services,2462,NSW,Newcastle,Single,Painting
+1322,Female,70,Psychology and Mental Health,1957,SA,Mount Gambier,Single,Playing music
+1323,Male,55,Agriculture and Environmental Resources,2688,QLD,Cairns,Widowed,Painting
+1324,Female,33,Aerospace,3324,VIC,Wodonga,Divorced,Collecting
+1325,Male,32,Manufacturing,3429,NSW,Penrith,Married,Camping
+1326,Male,67,Arts and Design,648,WA,Geraldton,Widowed,Volunteering
+1327,Male,94,Sports and Recreation,1898,SA,Whyalla,Divorced,Dancing
+1328,Male,58,Event Management,1257,NSW,Parramatta,Widowed,Playing music
+1329,Female,92,Fisheries and Forestry,3775,NSW,Newcastle,Single,Hiking
+1330,Male,17,Education,0,NSW,Newcastle,Married,Dancing
+1331,Male,12,Education,0,NSW,Penrith,Married,Swimming
+1332,Female,64,Tourism and Services,3887,NSW,Parramatta,Single,Cooking
+1333,Male,70,Agriculture and Environmental Resources,3002,NSW,Wollongong,Divorced,Astronomy
+1334,Female,45,Aerospace,1209,NSW,Newcastle,Divorced,Gardening
+1335,Male,25,Education and Training,3788,NSW,Sydney,Married,Reading
+1336,Male,61,Customer Service,3852,NSW,Parramatta,Widowed,Astronomy
+1337,Female,66,Arts and Design,1316,SA,Mount Gambier,Divorced,Collecting
+1338,Female,39,Arts and Design,818,VIC,Wodonga,Married,Cooking
+1339,Female,27,Architecture and Construction,776,NSW,Penrith,Divorced,Painting
+1340,Female,48,Health and Healthcare,3935,QLD,Townsville,Widowed,Traveling
+1341,Female,84,Media and Entertainment,886,QLD,Cairns,Single,Swimming
+1342,Male,42,Health and Healthcare,3308,NSW,Sydney,Divorced,Birdwatching
+1343,Female,36,"Personal Care (Beauty, Spa)",2620,SA,Port Augusta,Married,Swimming
+1344,Female,75,Information Technology (IT),1534,WA,Bunbury,Divorced,Fishing
+1345,Male,84,Energy and Environment,684,NSW,Wollongong,Married,Cooking
+1346,Female,81,Event Management,2865,VIC,Wodonga,Single,Painting
+1347,Female,92,Architecture and Construction,1772,VIC,Melbourne,Single,Gaming
+1348,Male,34,"Personal Care (Beauty, Spa)",2951,VIC,Melbourne,Married,Knitting
+1349,Male,52,Health and Healthcare,1861,QLD,Brisbane,Single,Dancing
+1350,Male,12,Education,0,WA,Mandurah,Widowed,Camping
+1351,Male,81,Business and Management,919,NSW,Newcastle,Divorced,Fishing
+1352,Female,61,Biotechnology,2465,NT,Darwin,Widowed,Writing
+1353,Female,95,Chemistry and Materials,1305,VIC,Bendigo,Married,Astronomy
+1354,Female,15,Education,0,VIC,Wodonga,Widowed,Playing music
+1355,Male,100,Customer Service,2025,NSW,Sydney,Widowed,Cooking
+1356,Female,98,Biotechnology,1523,VIC,Bendigo,Married,Meditation
+1357,Female,43,Law and Public Administration,1525,NSW,Penrith,Married,Swimming
+1358,Male,46,Finance and Banking,1195,NSW,Sydney,Widowed,Playing music
+1359,Male,57,Event Management,3034,NSW,Wollongong,Single,Astronomy
+1360,Male,20,Biotechnology,3535,NSW,Sydney,Widowed,Birdwatching
+1361,Female,30,Fisheries and Forestry,872,NSW,Parramatta,Divorced,Yoga
+1362,Male,99,Business and Management,3200,NSW,Parramatta,Married,Birdwatching
+1363,Female,86,Chemistry and Materials,2655,NSW,Newcastle,Widowed,Camping
+1364,Female,51,E-commerce,3288,NSW,Sydney,Married,Swimming
+1365,Male,13,Education,0,NSW,Parramatta,Divorced,Writing
+1366,Male,86,Agriculture and Environmental Resources,2114,VIC,Bendigo,Divorced,Knitting
+1367,Male,80,Architecture and Construction,1233,NSW,Penrith,Married,Gaming
+1368,Female,75,Security and Defense,1133,NSW,Wollongong,Divorced,Traveling
+1369,Female,99,Finance and Banking,2856,ACT,Woden Valley,Married,Camping
+1370,Male,16,Education,0,NSW,Parramatta,Divorced,Astronomy
+1371,Female,76,Transportation and Logistics,1537,NSW,Parramatta,Widowed,Meditation
+1372,Male,89,Information Technology (IT),2496,WA,Perth,Widowed,Playing music
+1373,Female,97,Agriculture and Environmental Resources,2772,NSW,Parramatta,Married,Cycling
+1374,Male,37,Arts and Design,2136,VIC,Ballarat,Widowed,Birdwatching
+1375,Female,50,Transportation and Logistics,1472,NSW,Sydney,Divorced,Gardening
+1376,Male,61,Architecture and Construction,3663,VIC,Wodonga,Widowed,Gardening
+1377,Male,62,Agriculture and Environmental Resources,2171,NSW,Penrith,Widowed,Collecting
+1378,Male,71,Chemistry and Materials,3954,QLD,Townsville,Married,Swimming
+1379,Male,56,Security and Defense,913,VIC,Bendigo,Married,Surfing
+1380,Female,98,Engineering and Industry,3412,VIC,Bendigo,Single,Swimming
+1381,Female,30,Business and Management,3942,QLD,Townsville,Single,Writing
+1382,Male,19,Fisheries and Forestry,2775,QLD,Townsville,Single,Writing
+1383,Female,31,Arts and Design,774,VIC,Geelong,Divorced,Meditation
+1384,Male,67,Media and Entertainment,3354,NSW,Wollongong,Widowed,Fishing
+1385,Male,52,Health and Healthcare,1452,WA,Geraldton,Widowed,Yoga
+1386,Female,32,Psychology and Mental Health,3205,VIC,Bendigo,Widowed,Traveling
+1387,Male,30,Transportation and Logistics,1983,NSW,Penrith,Divorced,Painting
+1388,Female,71,Law and Public Administration,3286,VIC,Melbourne,Widowed,Traveling
+1389,Female,56,Arts and Design,1851,NSW,Newcastle,Divorced,Knitting
+1390,Male,90,Real Estate,3361,NSW,Penrith,Divorced,Photography
+1391,Male,42,Manufacturing,1924,NSW,Parramatta,Single,Playing music
+1392,Male,23,Biotechnology,2433,TAS,Hobart,Divorced,Dancing
+1393,Male,21,Agriculture and Environmental Resources,2935,QLD,Brisbane,Single,Reading
+1394,Female,58,Science and Research,1473,ACT,Tuggeranong,Single,Photography
+1395,Male,66,Engineering and Industry,3072,WA,Bunbury,Single,Yoga
+1396,Female,56,Finance and Banking,2829,VIC,Melbourne,Widowed,Yoga
+1397,Male,28,Science and Research,3163,NSW,Newcastle,Widowed,Cycling
+1398,Male,86,Event Management,2002,NSW,Parramatta,Married,Dancing
+1399,Female,13,Education,0,VIC,Bendigo,Widowed,Swimming
+1400,Male,44,E-commerce,3887,VIC,Ballarat,Married,Knitting
+1401,Female,49,Customer Service,3766,VIC,Geelong,Widowed,Fishing
+1402,Female,34,Agriculture and Environmental Resources,1758,VIC,Melbourne,Married,Hiking
+1403,Female,21,Information Technology (IT),877,NSW,Newcastle,Married,Photography
+1404,Male,50,Event Management,3572,SA,Port Lincoln,Married,Woodworking
+1405,Female,54,E-commerce,3202,NSW,Penrith,Divorced,Gaming
+1406,Male,24,Energy and Environment,1343,NSW,Wollongong,Divorced,Woodworking
+1407,Male,5,Education,0,QLD,Sunshine Coast,Single,Swimming
+1408,Female,64,Arts and Design,3669,NSW,Wollongong,Married,Woodworking
+1409,Female,22,Transportation and Logistics,954,NSW,Newcastle,Divorced,Surfing
+1410,Female,33,Fisheries and Forestry,3383,NSW,Wollongong,Widowed,Dancing
+1411,Male,28,Energy and Environment,2646,VIC,Geelong,Divorced,Cycling
+1412,Male,88,Aerospace,1872,QLD,Sunshine Coast,Divorced,Camping
+1413,Male,50,Security and Defense,3444,QLD,Cairns,Divorced,Gardening
+1414,Male,5,Education,0,NSW,Sydney,Divorced,Writing
+1415,Female,83,Real Estate,1120,NSW,Wollongong,Single,Fishing
+1416,Female,98,Biotechnology,444,NSW,Sydney,Divorced,Traveling
+1417,Male,37,Transportation and Logistics,2825,NSW,Newcastle,Divorced,Gaming
+1418,Male,67,Information Technology (IT),3255,VIC,Bendigo,Single,Reading
+1419,Male,81,Health and Healthcare,3641,WA,Mandurah,Widowed,Photography
+1420,Female,43,Energy and Environment,865,ACT,Tuggeranong,Widowed,Cooking
+1421,Female,21,Tourism and Services,590,SA,Port Lincoln,Single,Yoga
+1422,Male,44,Manufacturing,2817,NSW,Newcastle,Divorced,Camping
+1423,Female,8,Education,0,NSW,Wollongong,Divorced,Photography
+1424,Female,73,Fisheries and Forestry,1163,VIC,Geelong,Divorced,Collecting
+1425,Male,37,E-commerce,2074,QLD,Townsville,Single,Camping
+1426,Female,55,Energy and Environment,1206,NSW,Penrith,Widowed,Collecting
+1427,Male,33,Real Estate,3061,NSW,Penrith,Married,Swimming
+1428,Female,69,Law and Public Administration,1059,NSW,Parramatta,Single,Painting
+1429,Male,48,Information Technology (IT),3938,SA,Whyalla,Widowed,Traveling
+1430,Female,37,Education and Training,1196,WA,Fremantle,Single,Writing
+1431,Male,85,Security and Defense,889,NSW,Wollongong,Married,Painting
+1432,Female,92,Business and Management,2542,VIC,Wodonga,Divorced,Yoga
+1433,Female,96,Event Management,2975,NSW,Wollongong,Divorced,Playing music
+1434,Female,32,Tourism and Services,2080,NSW,Penrith,Married,Woodworking
+1435,Male,5,Education,0,VIC,Ballarat,Married,Traveling
+1436,Male,20,Engineering and Industry,1980,QLD,Cairns,Married,Photography
+1437,Female,44,Architecture and Construction,1927,VIC,Wodonga,Married,Writing
+1438,Female,44,Education and Training,2738,NSW,Penrith,Widowed,Writing
+1439,Male,17,Education,0,NSW,Newcastle,Divorced,Gardening
+1440,Male,45,Event Management,2030,SA,Mount Gambier,Married,Astronomy
+1441,Female,4,Education,0,NSW,Newcastle,Single,Dancing
+1442,Female,70,Agriculture and Environmental Resources,2471,QLD,Gold Coast,Single,Surfing
+1443,Male,13,Education,0,NSW,Wollongong,Widowed,Swimming
+1444,Female,98,Education and Training,1857,NSW,Sydney,Married,Hiking
+1445,Female,82,Education and Training,3817,NSW,Penrith,Divorced,Birdwatching
+1446,Male,28,Event Management,2621,NSW,Newcastle,Married,Yoga
+1447,Male,79,Arts and Design,3226,SA,Mount Gambier,Single,Swimming
+1448,Female,14,Education,0,NSW,Sydney,Married,Camping
+1449,Male,15,Education,0,VIC,Bendigo,Widowed,Woodworking
+1450,Female,79,Engineering and Industry,3058,WA,Bunbury,Divorced,Surfing
+1451,Female,43,Information Technology (IT),2727,NSW,Newcastle,Married,Volunteering
+1452,Female,76,Real Estate,2551,TAS,Burnie,Single,Cooking
+1453,Female,62,Agriculture and Environmental Resources,2297,WA,Bunbury,Married,Cooking
+1454,Male,46,Media and Entertainment,3910,NSW,Parramatta,Divorced,Swimming
+1455,Female,27,Business and Management,2968,NSW,Wollongong,Single,Playing music
+1456,Female,10,Education,0,NSW,Wollongong,Single,Cooking
+1457,Female,82,Manufacturing,2233,ACT,Belconnen,Divorced,Woodworking
+1458,Male,30,E-commerce,342,QLD,Townsville,Widowed,Woodworking
+1459,Male,88,Event Management,1898,NSW,Newcastle,Single,Gaming
+1460,Female,24,Aerospace,3699,QLD,Cairns,Married,Hiking
+1461,Male,73,Media and Entertainment,3043,NSW,Sydney,Widowed,Collecting
+1462,Male,89,Fashion Industry,3182,WA,Bunbury,Single,Hiking
+1463,Female,98,Fisheries and Forestry,2023,NSW,Wollongong,Widowed,Swimming
+1464,Female,65,Health and Healthcare,758,NSW,Parramatta,Married,Cycling
+1465,Female,61,Law and Public Administration,3514,WA,Mandurah,Married,Camping
+1466,Female,91,Real Estate,1687,QLD,Sunshine Coast,Widowed,Reading
+1467,Female,67,Information Technology (IT),1672,NSW,Newcastle,Divorced,Cycling
+1468,Male,25,Energy and Environment,837,VIC,Geelong,Widowed,Astronomy
+1469,Female,5,Education,0,QLD,Sunshine Coast,Divorced,Astronomy
+1470,Male,86,Media and Entertainment,1732,NSW,Newcastle,Divorced,Meditation
+1471,Female,44,Event Management,3914,QLD,Townsville,Widowed,Gardening
+1472,Male,11,Education,0,NSW,Sydney,Widowed,Reading
+1473,Male,21,Energy and Environment,2383,NSW,Sydney,Widowed,Cycling
+1474,Male,95,Arts and Design,1047,WA,Geraldton,Single,Cooking
+1475,Female,51,Psychology and Mental Health,357,NSW,Penrith,Single,Yoga
+1476,Female,76,E-commerce,2189,QLD,Sunshine Coast,Single,Cycling
+1477,Male,61,Customer Service,1037,NSW,Wollongong,Single,Birdwatching
+1478,Male,24,Chemistry and Materials,601,VIC,Bendigo,Married,Fishing
+1479,Female,96,Food Processing Industry,1215,VIC,Ballarat,Widowed,Birdwatching
+1480,Female,24,Fashion Industry,821,NSW,Sydney,Widowed,Hiking
+1481,Male,48,Tourism and Services,3964,NSW,Parramatta,Married,Knitting
+1482,Female,12,Education,0,NSW,Penrith,Divorced,Gardening
+1483,Male,28,Law and Public Administration,1348,NSW,Wollongong,Single,Playing music
+1484,Male,39,Psychology and Mental Health,2747,SA,Port Augusta,Single,Surfing
+1485,Male,11,Education,0,NSW,Parramatta,Single,Collecting
+1486,Female,80,Education and Training,2570,QLD,Gold Coast,Widowed,Swimming
+1487,Female,34,Finance and Banking,3451,NSW,Sydney,Single,Knitting
+1488,Male,94,Business and Management,2496,NSW,Parramatta,Single,Gaming
+1489,Female,44,Food Processing Industry,877,SA,Adelaide,Divorced,Meditation
+1490,Male,4,Education,0,NSW,Parramatta,Widowed,Yoga
+1491,Male,33,"Personal Care (Beauty, Spa)",1480,SA,Port Augusta,Single,Yoga
+1492,Male,57,Law and Public Administration,3985,NSW,Parramatta,Married,Traveling
+1493,Male,5,Education,0,VIC,Ballarat,Divorced,Cooking
+1494,Male,23,Food Processing Industry,405,NSW,Parramatta,Married,Hiking
+1495,Female,85,"Personal Care (Beauty, Spa)",444,SA,Whyalla,Married,Gardening
+1496,Female,98,Education and Training,3529,NSW,Parramatta,Married,Cooking
+1497,Male,55,Architecture and Construction,3727,NSW,Penrith,Divorced,Playing music
+1498,Male,52,Transportation and Logistics,1676,QLD,Brisbane,Single,Swimming
+1499,Female,60,Arts and Design,1770,NSW,Penrith,Divorced,Camping
+1500,Female,100,Event Management,3567,SA,Whyalla,Widowed,Yoga
+1501,Female,52,Agriculture and Environmental Resources,884,NSW,Newcastle,Married,Collecting
+1502,Male,46,Media and Entertainment,2787,QLD,Townsville,Single,Painting
+1503,Female,73,Psychology and Mental Health,2790,VIC,Melbourne,Divorced,Astronomy
+1504,Male,27,Finance and Banking,1336,NSW,Sydney,Divorced,Yoga
+1505,Male,43,Event Management,2257,QLD,Sunshine Coast,Married,Woodworking
+1506,Male,93,Biotechnology,3141,VIC,Geelong,Widowed,Birdwatching
+1507,Female,19,Security and Defense,1486,SA,Port Augusta,Married,Swimming
+1508,Female,11,Education,0,SA,Whyalla,Widowed,Gardening
+1509,Female,67,Chemistry and Materials,1228,NSW,Penrith,Widowed,Playing music
+1510,Male,94,Agriculture and Environmental Resources,3343,NSW,Penrith,Single,Gaming
+1511,Female,78,Transportation and Logistics,1469,WA,Fremantle,Divorced,Collecting
+1512,Female,97,Tourism and Services,1729,WA,Fremantle,Divorced,Yoga
+1513,Female,51,Education and Training,3988,NSW,Penrith,Widowed,Woodworking
+1514,Male,55,Education and Training,2969,QLD,Cairns,Divorced,Playing music
+1515,Female,29,Arts and Design,2813,QLD,Townsville,Married,Meditation
+1516,Male,72,Manufacturing,2845,NSW,Wollongong,Married,Writing
+1517,Female,89,"Personal Care (Beauty, Spa)",1673,TAS,Burnie,Divorced,Camping
+1518,Male,97,Media and Entertainment,2391,NSW,Newcastle,Married,Dancing
+1519,Female,88,Event Management,2777,NSW,Wollongong,Married,Surfing
+1520,Male,9,Education,0,NSW,Sydney,Single,Fishing
+1521,Male,85,Architecture and Construction,919,NSW,Penrith,Widowed,Painting
+1522,Female,40,Food Processing Industry,1255,VIC,Ballarat,Widowed,Painting
+1523,Male,28,Chemistry and Materials,1743,VIC,Geelong,Divorced,Swimming
+1524,Female,24,"Personal Care (Beauty, Spa)",1568,VIC,Bendigo,Married,Cooking
+1525,Male,67,Fashion Industry,2453,NSW,Newcastle,Divorced,Traveling
+1526,Female,12,Education,0,NSW,Wollongong,Widowed,Writing
+1527,Female,84,Biotechnology,3351,QLD,Gold Coast,Single,Gardening
+1528,Male,32,Customer Service,1312,VIC,Wodonga,Widowed,Surfing
+1529,Male,61,Fisheries and Forestry,3795,VIC,Bendigo,Single,Gaming
+1530,Female,36,"Personal Care (Beauty, Spa)",957,VIC,Melbourne,Divorced,Gaming
+1531,Male,86,Aerospace,1260,NSW,Sydney,Widowed,Fishing
+1532,Male,38,Tourism and Services,1798,NSW,Newcastle,Divorced,Swimming
+1533,Female,9,Education,0,NSW,Parramatta,Divorced,Surfing
+1534,Male,48,Tourism and Services,423,NSW,Wollongong,Divorced,Surfing
+1535,Male,84,Transportation and Logistics,334,NSW,Sydney,Divorced,Birdwatching
+1536,Male,20,"Personal Care (Beauty, Spa)",838,NSW,Wollongong,Divorced,Swimming
+1537,Male,89,"Personal Care (Beauty, Spa)",1917,NSW,Parramatta,Widowed,Gaming
+1538,Male,41,Chemistry and Materials,1634,VIC,Wodonga,Single,Yoga
+1539,Female,9,Education,0,NSW,Newcastle,Widowed,Gaming
+1540,Female,82,Agriculture and Environmental Resources,469,NSW,Wollongong,Divorced,Woodworking
+1541,Male,68,Tourism and Services,2170,NSW,Sydney,Married,Camping
+1542,Male,95,Health and Healthcare,2529,NSW,Wollongong,Married,Painting
+1543,Male,25,"Personal Care (Beauty, Spa)",1847,NSW,Parramatta,Widowed,Playing music
+1544,Female,49,Psychology and Mental Health,2673,SA,Mount Gambier,Single,Gaming
+1545,Male,91,Tourism and Services,1148,NT,Katherine,Divorced,Gaming
+1546,Female,63,Information Technology (IT),903,VIC,Ballarat,Married,Camping
+1547,Male,63,Information Technology (IT),3728,SA,Mount Gambier,Married,Reading
+1548,Female,39,Engineering and Industry,823,VIC,Bendigo,Married,Cycling
+1549,Male,66,Education and Training,2240,NSW,Sydney,Married,Knitting
+1550,Male,35,Education and Training,316,NSW,Parramatta,Single,Gaming
+1551,Female,93,Sports and Recreation,3619,NSW,Parramatta,Divorced,Gardening
+1552,Male,29,Tourism and Services,561,QLD,Gold Coast,Widowed,Collecting
+1553,Male,62,Agriculture and Environmental Resources,3969,NSW,Wollongong,Married,Reading
+1554,Female,99,Customer Service,820,NSW,Parramatta,Single,Hiking
+1555,Female,72,Tourism and Services,1031,WA,Mandurah,Widowed,Dancing
+1556,Female,49,Education and Training,2653,SA,Port Augusta,Married,Camping
+1557,Female,48,Aerospace,3339,QLD,Gold Coast,Married,Volunteering
+1558,Female,10,Education,0,NSW,Sydney,Single,Gaming
+1559,Female,52,Health and Healthcare,1741,WA,Mandurah,Married,Reading
+1560,Female,77,Event Management,750,NSW,Wollongong,Married,Gardening
+1561,Female,76,Customer Service,2127,QLD,Brisbane,Married,Astronomy
+1562,Male,33,E-commerce,1097,QLD,Townsville,Married,Volunteering
+1563,Male,80,E-commerce,845,NSW,Sydney,Widowed,Astronomy
+1564,Male,14,Education,0,NSW,Newcastle,Married,Gaming
+1565,Male,35,Biotechnology,818,QLD,Gold Coast,Married,Painting
+1566,Male,35,Tourism and Services,1294,NSW,Newcastle,Married,Meditation
+1567,Female,74,Finance and Banking,1359,NSW,Wollongong,Married,Gaming
+1568,Female,63,Agriculture and Environmental Resources,1818,NSW,Sydney,Married,Collecting
+1569,Male,25,Arts and Design,1446,WA,Geraldton,Single,Fishing
+1570,Male,84,Event Management,3334,NSW,Penrith,Divorced,Fishing
+1571,Male,53,Media and Entertainment,2135,NT,Palmerston,Widowed,Writing
+1572,Female,79,Customer Service,2921,VIC,Ballarat,Married,Traveling
+1573,Male,31,Security and Defense,2693,SA,Adelaide,Widowed,Astronomy
+1574,Female,18,Event Management,554,NSW,Sydney,Married,Astronomy
+1575,Male,71,Architecture and Construction,2356,VIC,Bendigo,Single,Birdwatching
+1576,Male,18,Health and Healthcare,1389,NSW,Sydney,Divorced,Surfing
+1577,Male,52,Food Processing Industry,3166,NSW,Newcastle,Single,Playing music
+1578,Female,35,Chemistry and Materials,3481,NSW,Penrith,Widowed,Astronomy
+1579,Male,31,Psychology and Mental Health,2740,NSW,Sydney,Married,Astronomy
+1580,Female,21,Architecture and Construction,2952,NSW,Newcastle,Single,Writing
+1581,Male,57,Business and Management,2969,NSW,Penrith,Married,Dancing
+1582,Female,100,"Personal Care (Beauty, Spa)",2045,VIC,Ballarat,Divorced,Writing
+1583,Female,79,"Personal Care (Beauty, Spa)",2638,WA,Bunbury,Widowed,Birdwatching
+1584,Female,27,Sports and Recreation,732,SA,Mount Gambier,Widowed,Birdwatching
+1585,Female,6,Education,0,NSW,Newcastle,Widowed,Cycling
+1586,Female,88,Finance and Banking,1567,TAS,Launceston,Divorced,Woodworking
+1587,Male,15,Education,0,NSW,Parramatta,Married,Swimming
+1588,Female,38,Health and Healthcare,3294,SA,Adelaide,Single,Gardening
+1589,Male,29,Architecture and Construction,2817,NSW,Wollongong,Single,Woodworking
+1590,Male,75,Health and Healthcare,1106,WA,Perth,Divorced,Surfing
+1591,Male,95,Security and Defense,3815,SA,Port Lincoln,Single,Cooking
+1592,Male,52,Psychology and Mental Health,2150,NSW,Newcastle,Widowed,Cooking
+1593,Female,96,Manufacturing,3427,WA,Bunbury,Single,Cycling
+1594,Female,91,Manufacturing,3014,VIC,Wodonga,Divorced,Cooking
+1595,Male,98,Chemistry and Materials,1356,NSW,Sydney,Married,Collecting
+1596,Male,33,Fisheries and Forestry,1175,QLD,Cairns,Single,Knitting
+1597,Male,31,Psychology and Mental Health,1131,QLD,Sunshine Coast,Married,Playing music
+1598,Female,72,Science and Research,3272,QLD,Townsville,Widowed,Gaming
+1599,Female,55,Law and Public Administration,891,VIC,Geelong,Widowed,Reading
+1600,Male,11,Education,0,WA,Perth,Widowed,Painting
+1601,Male,49,Manufacturing,3619,NSW,Sydney,Widowed,Camping
+1602,Male,20,Information Technology (IT),2145,VIC,Geelong,Widowed,Fishing
+1603,Female,82,Real Estate,586,NSW,Penrith,Widowed,Dancing
+1604,Male,98,Chemistry and Materials,1854,QLD,Brisbane,Divorced,Yoga
+1605,Female,52,Finance and Banking,782,NSW,Wollongong,Widowed,Writing
+1606,Male,38,Science and Research,2549,NSW,Wollongong,Married,Traveling
+1607,Male,72,Fisheries and Forestry,3782,NSW,Newcastle,Married,Woodworking
+1608,Male,94,Education and Training,1747,SA,Port Augusta,Single,Swimming
+1609,Female,19,Health and Healthcare,2211,NSW,Parramatta,Widowed,Cycling
+1610,Female,73,Agriculture and Environmental Resources,3074,NSW,Newcastle,Single,Volunteering
+1611,Female,93,Engineering and Industry,2934,QLD,Townsville,Widowed,Traveling
+1612,Female,10,Education,0,NSW,Wollongong,Married,Hiking
+1613,Male,72,Security and Defense,3394,NSW,Newcastle,Single,Swimming
+1614,Female,16,Education,0,NSW,Penrith,Divorced,Cooking
+1615,Female,32,Education and Training,1592,NSW,Parramatta,Single,Fishing
+1616,Male,51,Food Processing Industry,1996,NSW,Parramatta,Divorced,Birdwatching
+1617,Male,73,Aerospace,1096,WA,Fremantle,Single,Yoga
+1618,Female,30,Event Management,3046,NSW,Parramatta,Divorced,Gaming
+1619,Male,52,"Personal Care (Beauty, Spa)",2804,NSW,Newcastle,Widowed,Collecting
+1620,Male,41,Media and Entertainment,3972,WA,Bunbury,Married,Painting
+1621,Male,86,Education and Training,3493,VIC,Bendigo,Single,Knitting
+1622,Male,12,Education,0,VIC,Melbourne,Married,Reading
+1623,Female,54,Real Estate,447,VIC,Geelong,Single,Astronomy
+1624,Female,55,Architecture and Construction,3197,NSW,Sydney,Divorced,Writing
+1625,Female,10,Education,0,NSW,Penrith,Divorced,Reading
+1626,Female,96,Fisheries and Forestry,1179,NSW,Parramatta,Single,Photography
+1627,Female,96,Energy and Environment,2867,NSW,Parramatta,Divorced,Woodworking
+1628,Male,85,Science and Research,2182,VIC,Bendigo,Widowed,Gardening
+1629,Female,64,Customer Service,2716,VIC,Geelong,Divorced,Photography
+1630,Male,43,Fashion Industry,1373,QLD,Cairns,Widowed,Yoga
+1631,Male,25,Psychology and Mental Health,1035,NSW,Sydney,Widowed,Gaming
+1632,Male,17,Education,0,NSW,Newcastle,Single,Playing music
+1633,Male,33,Law and Public Administration,3505,QLD,Sunshine Coast,Widowed,Playing music
+1634,Female,19,Information Technology (IT),2566,NSW,Sydney,Single,Birdwatching
+1635,Female,63,Law and Public Administration,1846,NSW,Penrith,Widowed,Camping
+1636,Male,59,Education and Training,3264,NSW,Penrith,Divorced,Camping
+1637,Female,71,Psychology and Mental Health,1381,QLD,Sunshine Coast,Widowed,Cooking
+1638,Male,79,Tourism and Services,1438,NSW,Wollongong,Single,Camping
+1639,Female,50,Media and Entertainment,3654,NSW,Parramatta,Single,Collecting
+1640,Male,99,Chemistry and Materials,847,NSW,Sydney,Single,Astronomy
+1641,Male,53,Transportation and Logistics,3166,WA,Mandurah,Married,Meditation
+1642,Female,64,Psychology and Mental Health,1279,NSW,Parramatta,Single,Gaming
+1643,Male,30,Event Management,1249,QLD,Townsville,Widowed,Surfing
+1644,Male,38,Food Processing Industry,2292,NSW,Penrith,Widowed,Fishing
+1645,Male,50,Agriculture and Environmental Resources,3123,QLD,Gold Coast,Divorced,Cycling
+1646,Male,77,Architecture and Construction,607,NSW,Penrith,Single,Gardening
+1647,Female,90,Agriculture and Environmental Resources,2617,NSW,Sydney,Divorced,Astronomy
+1648,Male,52,Education and Training,1262,NSW,Sydney,Divorced,Writing
+1649,Male,36,Law and Public Administration,572,TAS,Launceston,Single,Astronomy
+1650,Male,62,Finance and Banking,1858,TAS,Hobart,Divorced,Yoga
+1651,Female,58,Science and Research,2445,NSW,Newcastle,Divorced,Dancing
+1652,Female,45,Psychology and Mental Health,1727,NT,Palmerston,Single,Cooking
+1653,Male,55,Tourism and Services,2447,NSW,Penrith,Widowed,Collecting
+1654,Male,6,Education,0,NSW,Parramatta,Single,Writing
+1655,Female,57,Media and Entertainment,3965,TAS,Launceston,Divorced,Gardening
+1656,Male,36,Chemistry and Materials,2248,SA,Port Augusta,Divorced,Birdwatching
+1657,Male,47,"Personal Care (Beauty, Spa)",2792,NSW,Parramatta,Widowed,Birdwatching
+1658,Male,96,Law and Public Administration,1846,VIC,Melbourne,Divorced,Fishing
+1659,Male,77,Biotechnology,2360,VIC,Ballarat,Widowed,Birdwatching
+1660,Male,31,Event Management,1633,WA,Mandurah,Single,Fishing
+1661,Male,97,Real Estate,3241,NSW,Wollongong,Single,Painting
+1662,Male,78,E-commerce,1947,NSW,Sydney,Divorced,Writing
+1663,Male,35,Media and Entertainment,3651,WA,Bunbury,Married,Knitting
+1664,Female,48,Chemistry and Materials,3970,NSW,Wollongong,Divorced,Collecting
+1665,Female,10,Education,0,NSW,Parramatta,Widowed,Camping
+1666,Female,65,Architecture and Construction,1602,WA,Geraldton,Single,Yoga
+1667,Female,44,Engineering and Industry,1550,NSW,Wollongong,Married,Yoga
+1668,Male,95,Media and Entertainment,2587,QLD,Brisbane,Single,Collecting
+1669,Male,29,Chemistry and Materials,3162,NSW,Newcastle,Widowed,Fishing
+1670,Male,10,Education,0,QLD,Brisbane,Single,Volunteering
+1671,Male,29,Food Processing Industry,1140,NSW,Parramatta,Single,Painting
+1672,Male,10,Education,0,VIC,Melbourne,Married,Knitting
+1673,Female,100,Chemistry and Materials,3042,SA,Whyalla,Single,Writing
+1674,Female,63,Manufacturing,3713,NSW,Sydney,Married,Collecting
+1675,Female,86,Security and Defense,2258,NSW,Parramatta,Divorced,Gaming
+1676,Female,43,E-commerce,2714,SA,Port Lincoln,Married,Yoga
+1677,Male,29,Fisheries and Forestry,2488,NSW,Sydney,Widowed,Camping
+1678,Male,30,Engineering and Industry,1786,NSW,Penrith,Single,Hiking
+1679,Male,29,Arts and Design,3589,NSW,Newcastle,Single,Volunteering
+1680,Male,10,Education,0,VIC,Bendigo,Divorced,Writing
+1681,Female,82,Tourism and Services,1389,NSW,Newcastle,Widowed,Painting
+1682,Male,47,Psychology and Mental Health,2930,NSW,Penrith,Single,Gaming
+1683,Male,26,Finance and Banking,802,NSW,Penrith,Single,Collecting
+1684,Male,90,Education and Training,1235,NSW,Wollongong,Married,Knitting
+1685,Male,76,Media and Entertainment,556,NSW,Sydney,Married,Gardening
+1686,Male,36,Manufacturing,3182,NSW,Sydney,Married,Playing music
+1687,Female,20,Sports and Recreation,2537,NSW,Penrith,Married,Volunteering
+1688,Female,12,Education,0,NSW,Sydney,Widowed,Gaming
+1689,Male,27,Business and Management,3157,NSW,Sydney,Widowed,Volunteering
+1690,Female,66,Transportation and Logistics,3316,QLD,Townsville,Married,Birdwatching
+1691,Female,58,Health and Healthcare,2609,SA,Port Augusta,Divorced,Astronomy
+1692,Female,10,Education,0,NSW,Wollongong,Widowed,Knitting
+1693,Male,96,Engineering and Industry,3125,SA,Port Augusta,Widowed,Playing music
+1694,Male,41,Fisheries and Forestry,3225,VIC,Ballarat,Divorced,Painting
+1695,Female,33,Media and Entertainment,3728,VIC,Geelong,Married,Volunteering
+1696,Male,18,Customer Service,1844,NSW,Penrith,Widowed,Writing
+1697,Female,98,Fisheries and Forestry,1134,QLD,Townsville,Single,Swimming
+1698,Male,76,Business and Management,3368,NSW,Penrith,Single,Cooking
+1699,Male,12,Education,0,VIC,Bendigo,Divorced,Gaming
+1700,Male,98,Education and Training,1778,VIC,Geelong,Widowed,Astronomy
+1701,Female,92,Information Technology (IT),1632,NSW,Newcastle,Single,Traveling
+1702,Female,78,Real Estate,2826,NSW,Sydney,Single,Surfing
+1703,Female,51,Arts and Design,2983,ACT,Gungahlin,Married,Cooking
+1704,Female,7,Education,0,NSW,Newcastle,Divorced,Swimming
+1705,Male,59,Education and Training,414,NSW,Penrith,Divorced,Fishing
+1706,Male,35,Manufacturing,2884,NSW,Penrith,Widowed,Hiking
+1707,Male,82,Chemistry and Materials,653,NSW,Parramatta,Divorced,Collecting
+1708,Male,88,Transportation and Logistics,404,NSW,Penrith,Single,Gardening
+1709,Female,45,Chemistry and Materials,3994,NSW,Parramatta,Married,Dancing
+1710,Male,13,Education,0,VIC,Geelong,Single,Collecting
+1711,Male,83,Information Technology (IT),3456,NSW,Wollongong,Widowed,Swimming
+1712,Male,89,Science and Research,2826,VIC,Wodonga,Widowed,Birdwatching
+1713,Female,35,Fashion Industry,1557,NSW,Parramatta,Widowed,Birdwatching
+1714,Male,4,Education,0,NSW,Newcastle,Divorced,Swimming
+1715,Male,78,Fashion Industry,395,VIC,Wodonga,Married,Reading
+1716,Female,35,Business and Management,2870,SA,Mount Gambier,Widowed,Astronomy
+1717,Female,17,Education,0,VIC,Geelong,Divorced,Traveling
+1718,Female,23,Science and Research,3904,NSW,Newcastle,Widowed,Collecting
+1719,Male,90,Media and Entertainment,2996,NSW,Parramatta,Widowed,Collecting
+1720,Male,59,Architecture and Construction,3235,QLD,Sunshine Coast,Divorced,Photography
+1721,Male,16,Education,0,VIC,Bendigo,Single,Cooking
+1722,Female,78,Biotechnology,3900,NSW,Sydney,Divorced,Hiking
+1723,Female,28,Fashion Industry,2312,NSW,Parramatta,Single,Cycling
+1724,Male,33,Psychology and Mental Health,3618,SA,Whyalla,Single,Swimming
+1725,Female,50,Security and Defense,1293,SA,Mount Gambier,Widowed,Traveling
+1726,Female,93,Fisheries and Forestry,1336,VIC,Ballarat,Divorced,Cycling
+1727,Male,18,Food Processing Industry,2127,VIC,Bendigo,Single,Knitting
+1728,Female,95,Transportation and Logistics,650,WA,Bunbury,Single,Playing music
+1729,Female,84,Arts and Design,3821,SA,Mount Gambier,Married,Astronomy
+1730,Male,37,Security and Defense,2072,SA,Port Augusta,Married,Writing
+1731,Male,76,Arts and Design,3824,NSW,Penrith,Married,Camping
+1732,Male,55,"Personal Care (Beauty, Spa)",2464,VIC,Ballarat,Married,Swimming
+1733,Male,30,Architecture and Construction,2536,NSW,Sydney,Widowed,Astronomy
+1734,Male,70,Aerospace,2795,SA,Adelaide,Divorced,Fishing
+1735,Male,56,"Personal Care (Beauty, Spa)",728,NSW,Newcastle,Married,Photography
+1736,Female,85,Education and Training,3405,NSW,Parramatta,Single,Painting
+1737,Female,85,Transportation and Logistics,2819,WA,Perth,Widowed,Fishing
+1738,Male,89,Architecture and Construction,1084,NSW,Wollongong,Single,Astronomy
+1739,Female,76,Finance and Banking,3464,NSW,Sydney,Divorced,Cycling
+1740,Male,28,Event Management,1793,NSW,Sydney,Married,Writing
+1741,Male,34,Education and Training,3568,SA,Adelaide,Married,Traveling
+1742,Female,49,Health and Healthcare,3845,VIC,Ballarat,Married,Cycling
+1743,Male,10,Education,0,QLD,Sunshine Coast,Married,Gardening
+1744,Male,8,Education,0,WA,Geraldton,Divorced,Camping
+1745,Female,75,Food Processing Industry,1745,VIC,Geelong,Divorced,Birdwatching
+1746,Male,52,Energy and Environment,2031,NSW,Parramatta,Married,Dancing
+1747,Male,45,Biotechnology,1623,VIC,Bendigo,Widowed,Painting
+1748,Male,38,Event Management,812,TAS,Devonport,Widowed,Reading
+1749,Male,100,Media and Entertainment,2815,NSW,Wollongong,Single,Woodworking
+1750,Male,82,"Personal Care (Beauty, Spa)",3850,VIC,Ballarat,Widowed,Reading
+1751,Male,22,Finance and Banking,1204,QLD,Sunshine Coast,Divorced,Hiking
+1752,Female,21,Fashion Industry,418,NSW,Sydney,Widowed,Yoga
+1753,Male,94,Food Processing Industry,1821,QLD,Gold Coast,Divorced,Reading
+1754,Male,48,Fashion Industry,3883,VIC,Melbourne,Single,Painting
+1755,Male,82,Fisheries and Forestry,692,NSW,Parramatta,Single,Swimming
+1756,Male,79,Energy and Environment,984,ACT,Canberra,Married,Traveling
+1757,Male,88,Fisheries and Forestry,787,VIC,Melbourne,Divorced,Gardening
+1758,Male,23,Customer Service,2474,WA,Geraldton,Divorced,Camping
+1759,Male,45,Agriculture and Environmental Resources,3859,TAS,Hobart,Divorced,Photography
+1760,Male,14,Education,0,QLD,Brisbane,Widowed,Gardening
+1761,Male,26,Media and Entertainment,3945,NSW,Wollongong,Married,Cycling
+1762,Female,71,Tourism and Services,3058,VIC,Wodonga,Widowed,Collecting
+1763,Female,76,Arts and Design,3969,VIC,Melbourne,Widowed,Painting
+1764,Female,43,Agriculture and Environmental Resources,900,VIC,Ballarat,Widowed,Painting
+1765,Female,9,Education,0,NSW,Parramatta,Married,Fishing
+1766,Female,92,Chemistry and Materials,353,NSW,Parramatta,Single,Hiking
+1767,Female,64,Aerospace,2766,NSW,Wollongong,Married,Meditation
+1768,Female,95,Food Processing Industry,1176,NSW,Newcastle,Widowed,Volunteering
+1769,Male,91,Finance and Banking,1813,NSW,Wollongong,Widowed,Cycling
+1770,Male,71,Chemistry and Materials,1838,QLD,Brisbane,Widowed,Photography
+1771,Male,31,Energy and Environment,2557,NSW,Parramatta,Divorced,Dancing
+1772,Male,30,Agriculture and Environmental Resources,3312,NSW,Parramatta,Single,Writing
+1773,Male,24,Business and Management,2832,ACT,Gungahlin,Widowed,Camping
+1774,Female,11,Education,0,ACT,Tuggeranong,Divorced,Dancing
+1775,Female,72,Sports and Recreation,760,VIC,Bendigo,Divorced,Fishing
+1776,Female,38,Science and Research,521,WA,Geraldton,Widowed,Cycling
+1777,Male,44,E-commerce,3369,NSW,Sydney,Married,Dancing
+1778,Female,10,Education,0,QLD,Brisbane,Married,Woodworking
+1779,Female,77,Fisheries and Forestry,2161,WA,Fremantle,Divorced,Hiking
+1780,Female,35,Health and Healthcare,1091,SA,Mount Gambier,Widowed,Writing
+1781,Male,19,E-commerce,2211,WA,Fremantle,Divorced,Photography
+1782,Male,26,Education and Training,3494,WA,Bunbury,Widowed,Astronomy
+1783,Male,8,Education,0,TAS,Devonport,Single,Playing music
+1784,Female,87,E-commerce,686,NSW,Sydney,Married,Birdwatching
+1785,Female,17,Education,0,NSW,Parramatta,Married,Volunteering
+1786,Male,63,Education and Training,731,NSW,Newcastle,Widowed,Knitting
+1787,Male,35,Engineering and Industry,3112,NSW,Newcastle,Married,Swimming
+1788,Male,87,Food Processing Industry,3669,WA,Fremantle,Single,Volunteering
+1789,Male,55,Energy and Environment,2449,NSW,Wollongong,Widowed,Birdwatching
+1790,Female,79,Aerospace,3492,NT,Darwin,Single,Knitting
+1791,Female,45,Information Technology (IT),2101,NSW,Newcastle,Single,Painting
+1792,Female,9,Education,0,NSW,Penrith,Divorced,Astronomy
+1793,Female,100,Psychology and Mental Health,636,WA,Fremantle,Widowed,Collecting
+1794,Female,92,Architecture and Construction,681,QLD,Brisbane,Single,Astronomy
+1795,Female,43,Event Management,2994,WA,Geraldton,Single,Yoga
+1796,Male,44,Architecture and Construction,753,WA,Perth,Married,Knitting
+1797,Male,85,Sports and Recreation,2931,WA,Perth,Single,Cycling
+1798,Female,13,Education,0,QLD,Brisbane,Single,Gaming
+1799,Female,18,Engineering and Industry,4000,QLD,Cairns,Married,Swimming
+1800,Male,98,Arts and Design,3762,WA,Bunbury,Widowed,Gaming
+1801,Male,5,Education,0,QLD,Cairns,Married,Dancing
+1802,Male,20,Architecture and Construction,3997,WA,Geraldton,Single,Collecting
+1803,Female,48,Education and Training,1033,NSW,Sydney,Single,Surfing
+1804,Female,85,Business and Management,3431,NSW,Sydney,Widowed,Cooking
+1805,Female,84,Architecture and Construction,2033,VIC,Bendigo,Married,Camping
+1806,Male,96,Chemistry and Materials,728,QLD,Townsville,Single,Reading
+1807,Male,33,Manufacturing,507,QLD,Sunshine Coast,Widowed,Surfing
+1808,Male,54,Energy and Environment,860,SA,Port Augusta,Married,Painting
+1809,Male,73,Engineering and Industry,768,NSW,Penrith,Single,Hiking
+1810,Female,4,Education,0,NSW,Wollongong,Widowed,Painting
+1811,Female,61,Energy and Environment,2542,NSW,Wollongong,Widowed,Astronomy
+1812,Male,61,Engineering and Industry,2743,QLD,Brisbane,Widowed,Yoga
+1813,Female,47,Transportation and Logistics,3896,NSW,Wollongong,Single,Reading
+1814,Female,23,Media and Entertainment,2758,NSW,Sydney,Married,Dancing
+1815,Female,20,Engineering and Industry,800,NSW,Penrith,Widowed,Traveling
+1816,Male,66,Media and Entertainment,609,NSW,Sydney,Divorced,Playing music
+1817,Male,80,Aerospace,890,SA,Whyalla,Single,Woodworking
+1818,Male,81,"Personal Care (Beauty, Spa)",1074,WA,Mandurah,Divorced,Meditation
+1819,Female,92,Event Management,2663,NT,Darwin,Single,Traveling
+1820,Male,97,Agriculture and Environmental Resources,357,VIC,Bendigo,Single,Gardening
+1821,Female,41,Fashion Industry,1357,NSW,Sydney,Widowed,Surfing
+1822,Female,68,Science and Research,2883,NSW,Sydney,Widowed,Collecting
+1823,Male,48,Health and Healthcare,843,NSW,Parramatta,Married,Dancing
+1824,Female,99,Architecture and Construction,3745,NSW,Wollongong,Divorced,Dancing
+1825,Female,20,Education and Training,480,NSW,Newcastle,Widowed,Surfing
+1826,Male,81,Customer Service,3072,NSW,Penrith,Divorced,Camping
+1827,Female,37,Aerospace,1563,VIC,Melbourne,Divorced,Traveling
+1828,Female,90,Customer Service,3460,WA,Fremantle,Single,Birdwatching
+1829,Male,15,Education,0,QLD,Brisbane,Divorced,Dancing
+1830,Female,62,Security and Defense,1346,SA,Mount Gambier,Single,Cycling
+1831,Female,33,Finance and Banking,737,NSW,Sydney,Widowed,Gardening
+1832,Male,57,Sports and Recreation,934,QLD,Sunshine Coast,Divorced,Yoga
+1833,Female,23,Fisheries and Forestry,877,NSW,Wollongong,Married,Knitting
+1834,Female,90,Sports and Recreation,437,NSW,Newcastle,Widowed,Painting
+1835,Female,50,"Personal Care (Beauty, Spa)",3995,WA,Bunbury,Married,Fishing
+1836,Female,61,Chemistry and Materials,2451,VIC,Melbourne,Married,Traveling
+1837,Male,25,Security and Defense,604,WA,Fremantle,Married,Camping
+1838,Female,24,Media and Entertainment,317,VIC,Wodonga,Single,Woodworking
+1839,Male,27,Energy and Environment,1712,WA,Geraldton,Widowed,Gaming
+1840,Male,61,Agriculture and Environmental Resources,2881,NSW,Parramatta,Married,Cycling
+1841,Female,12,Education,0,NSW,Wollongong,Married,Writing
+1842,Male,37,E-commerce,1332,NSW,Wollongong,Widowed,Astronomy
+1843,Female,21,Sports and Recreation,637,NSW,Penrith,Widowed,Dancing
+1844,Male,99,Business and Management,917,ACT,Canberra,Divorced,Hiking
+1845,Female,67,Tourism and Services,2513,QLD,Gold Coast,Single,Surfing
+1846,Female,91,"Personal Care (Beauty, Spa)",2404,NSW,Penrith,Married,Playing music
+1847,Female,18,Event Management,1958,WA,Perth,Divorced,Surfing
+1848,Male,53,Manufacturing,432,SA,Mount Gambier,Single,Birdwatching
+1849,Female,74,Aerospace,464,NSW,Sydney,Widowed,Painting
+1850,Female,39,E-commerce,336,NT,Alice Springs,Single,Meditation
+1851,Female,78,Biotechnology,3904,NSW,Sydney,Single,Gaming
+1852,Male,7,Education,0,VIC,Wodonga,Divorced,Woodworking
+1853,Female,14,Education,0,VIC,Wodonga,Single,Traveling
+1854,Male,86,"Personal Care (Beauty, Spa)",417,NSW,Newcastle,Widowed,Volunteering
+1855,Male,41,Real Estate,1780,NSW,Penrith,Divorced,Playing music
+1856,Male,82,Agriculture and Environmental Resources,2003,NSW,Sydney,Widowed,Astronomy
+1857,Female,62,Health and Healthcare,1283,NSW,Parramatta,Divorced,Astronomy
+1858,Female,41,Fashion Industry,1751,NSW,Penrith,Widowed,Fishing
+1859,Female,87,Transportation and Logistics,3119,NSW,Parramatta,Single,Fishing
+1860,Male,70,Science and Research,1161,WA,Geraldton,Widowed,Gaming
+1861,Female,28,Transportation and Logistics,1990,NSW,Parramatta,Widowed,Reading
+1862,Female,83,Food Processing Industry,673,QLD,Townsville,Widowed,Knitting
+1863,Male,81,Fisheries and Forestry,3744,NT,Katherine,Single,Swimming
+1864,Male,75,E-commerce,1194,QLD,Brisbane,Married,Traveling
+1865,Male,24,Biotechnology,1086,NSW,Sydney,Single,Painting
+1866,Male,65,Fashion Industry,1691,NSW,Penrith,Widowed,Gardening
+1867,Male,47,Information Technology (IT),1595,QLD,Cairns,Married,Swimming
+1868,Male,61,Tourism and Services,688,VIC,Wodonga,Single,Writing
+1869,Female,51,Real Estate,1878,NSW,Wollongong,Widowed,Cycling
+1870,Female,44,Aerospace,1525,QLD,Brisbane,Widowed,Gaming
+1871,Female,96,Finance and Banking,3011,ACT,Gungahlin,Widowed,Gaming
+1872,Male,8,Education,0,SA,Port Lincoln,Widowed,Painting
+1873,Female,52,"Personal Care (Beauty, Spa)",2973,NSW,Penrith,Divorced,Gaming
+1874,Male,89,Media and Entertainment,2758,NSW,Wollongong,Single,Dancing
+1875,Female,82,Sports and Recreation,888,NSW,Wollongong,Divorced,Astronomy
+1876,Female,84,Chemistry and Materials,1904,NSW,Newcastle,Married,Playing music
+1877,Female,63,Security and Defense,1247,NSW,Parramatta,Married,Astronomy
+1878,Female,35,Science and Research,3231,NSW,Parramatta,Divorced,Surfing
+1879,Male,4,Education,0,NSW,Penrith,Divorced,Meditation
+1880,Male,95,Transportation and Logistics,575,QLD,Brisbane,Married,Volunteering
+1881,Male,34,Chemistry and Materials,2294,NSW,Sydney,Widowed,Gaming
+1882,Female,4,Education,0,NSW,Penrith,Divorced,Painting
+1883,Male,66,Business and Management,3920,NSW,Penrith,Married,Fishing
+1884,Male,57,Engineering and Industry,2666,VIC,Bendigo,Divorced,Writing
+1885,Female,44,Arts and Design,2174,NSW,Sydney,Divorced,Traveling
+1886,Male,81,"Personal Care (Beauty, Spa)",2953,SA,Mount Gambier,Widowed,Photography
+1887,Female,5,Education,0,NSW,Parramatta,Single,Yoga
+1888,Male,51,Finance and Banking,2405,NSW,Newcastle,Widowed,Collecting
+1889,Female,97,Tourism and Services,2985,SA,Adelaide,Divorced,Surfing
+1890,Male,35,Business and Management,358,WA,Bunbury,Divorced,Gaming
+1891,Male,92,E-commerce,3975,QLD,Brisbane,Widowed,Playing music
+1892,Male,28,Psychology and Mental Health,1270,NSW,Penrith,Single,Meditation
+1893,Female,12,Education,0,NSW,Sydney,Single,Astronomy
+1894,Female,28,Customer Service,1204,NSW,Penrith,Widowed,Meditation
+1895,Male,75,Finance and Banking,587,VIC,Melbourne,Widowed,Meditation
+1896,Male,12,Education,0,VIC,Bendigo,Married,Painting
+1897,Male,36,Architecture and Construction,1836,VIC,Bendigo,Married,Gaming
+1898,Male,72,Food Processing Industry,3947,NSW,Penrith,Married,Camping
+1899,Male,38,Biotechnology,2034,TAS,Launceston,Divorced,Camping
+1900,Female,67,Energy and Environment,885,WA,Fremantle,Single,Collecting
+1901,Female,54,Media and Entertainment,3193,NSW,Newcastle,Widowed,Woodworking
+1902,Male,45,Fashion Industry,3372,NSW,Wollongong,Single,Traveling
+1903,Female,36,Fisheries and Forestry,2317,SA,Adelaide,Married,Fishing
+1904,Female,54,Health and Healthcare,1629,QLD,Townsville,Married,Collecting
+1905,Female,50,Education and Training,2169,NSW,Newcastle,Married,Cycling
+1906,Male,40,"Personal Care (Beauty, Spa)",3859,NSW,Wollongong,Married,Painting
+1907,Male,79,Sports and Recreation,1575,WA,Fremantle,Divorced,Photography
+1908,Male,25,Sports and Recreation,3131,SA,Port Lincoln,Married,Photography
+1909,Male,65,Agriculture and Environmental Resources,3027,NSW,Sydney,Married,Reading
+1910,Female,33,Fisheries and Forestry,1119,QLD,Sunshine Coast,Divorced,Birdwatching
+1911,Male,16,Education,0,VIC,Melbourne,Single,Reading
+1912,Female,51,Science and Research,1213,QLD,Townsville,Married,Gardening
+1913,Male,46,E-commerce,3701,NSW,Wollongong,Widowed,Gaming
+1914,Female,17,Education,0,WA,Geraldton,Divorced,Cycling
+1915,Male,65,Tourism and Services,3365,ACT,Gungahlin,Widowed,Cooking
+1916,Female,25,Event Management,360,QLD,Townsville,Single,Meditation
+1917,Female,72,Event Management,2727,SA,Port Lincoln,Divorced,Collecting
+1918,Male,4,Education,0,QLD,Cairns,Divorced,Yoga
+1919,Male,30,Finance and Banking,2907,SA,Whyalla,Widowed,Dancing
+1920,Male,14,Education,0,WA,Bunbury,Widowed,Fishing
+1921,Female,76,Psychology and Mental Health,524,WA,Mandurah,Widowed,Meditation
+1922,Female,41,Information Technology (IT),3249,NSW,Newcastle,Single,Woodworking
+1923,Female,49,Arts and Design,3659,VIC,Bendigo,Single,Traveling
+1924,Female,29,Sports and Recreation,3713,NSW,Sydney,Married,Gardening
+1925,Male,92,Real Estate,3409,NSW,Parramatta,Married,Woodworking
+1926,Male,24,Agriculture and Environmental Resources,938,NSW,Sydney,Married,Photography
+1927,Female,49,Real Estate,3037,NSW,Newcastle,Single,Woodworking
+1928,Female,71,Energy and Environment,896,NSW,Penrith,Widowed,Fishing
+1929,Female,28,Tourism and Services,912,QLD,Gold Coast,Divorced,Astronomy
+1930,Male,52,Customer Service,851,NSW,Parramatta,Single,Collecting
+1931,Male,33,Transportation and Logistics,1901,NSW,Parramatta,Single,Playing music
+1932,Female,20,Engineering and Industry,1495,NSW,Penrith,Widowed,Surfing
+1933,Male,19,Manufacturing,3226,QLD,Cairns,Divorced,Playing music
+1934,Female,88,Energy and Environment,2156,VIC,Melbourne,Divorced,Cycling
+1935,Male,4,Education,0,NSW,Wollongong,Widowed,Cooking
+1936,Female,22,Biotechnology,3756,NSW,Wollongong,Widowed,Cycling
+1937,Male,58,Business and Management,3092,TAS,Hobart,Married,Astronomy
+1938,Male,47,Chemistry and Materials,3293,NSW,Sydney,Married,Surfing
+1939,Male,93,Transportation and Logistics,3693,NSW,Penrith,Widowed,Writing
+1940,Male,75,Media and Entertainment,2989,NSW,Parramatta,Married,Playing music
+1941,Female,4,Education,0,VIC,Melbourne,Single,Woodworking
+1942,Female,54,Transportation and Logistics,1681,WA,Perth,Single,Photography
+1943,Male,44,Tourism and Services,536,VIC,Melbourne,Single,Woodworking
+1944,Male,53,Psychology and Mental Health,1754,QLD,Townsville,Single,Astronomy
+1945,Male,50,Health and Healthcare,3082,NSW,Wollongong,Widowed,Cycling
+1946,Female,71,Law and Public Administration,3018,NSW,Newcastle,Widowed,Reading
+1947,Female,41,Education and Training,1830,NSW,Sydney,Widowed,Cycling
+1948,Male,92,Transportation and Logistics,3974,TAS,Burnie,Widowed,Swimming
+1949,Female,92,Finance and Banking,1895,NSW,Sydney,Married,Gaming
+1950,Male,63,"Personal Care (Beauty, Spa)",3334,QLD,Gold Coast,Divorced,Woodworking
+1951,Female,86,Fashion Industry,1343,SA,Port Augusta,Divorced,Playing music
+1952,Male,9,Education,0,NSW,Penrith,Divorced,Gardening
+1953,Female,37,Finance and Banking,1963,VIC,Wodonga,Single,Meditation
+1954,Female,29,Sports and Recreation,3771,NSW,Parramatta,Divorced,Fishing
+1955,Female,66,Tourism and Services,1699,NSW,Sydney,Divorced,Writing
+1956,Female,65,Food Processing Industry,2390,NSW,Parramatta,Divorced,Fishing
+1957,Male,81,Sports and Recreation,3207,QLD,Townsville,Married,Knitting
+1958,Male,90,E-commerce,2993,NSW,Newcastle,Divorced,Painting
+1959,Female,68,Agriculture and Environmental Resources,1120,NSW,Parramatta,Married,Yoga
+1960,Male,44,"Personal Care (Beauty, Spa)",3517,NSW,Newcastle,Divorced,Birdwatching
+1961,Female,54,Psychology and Mental Health,2962,SA,Mount Gambier,Widowed,Volunteering
+1962,Male,52,"Personal Care (Beauty, Spa)",418,NSW,Parramatta,Married,Cycling
+1963,Male,26,Media and Entertainment,2865,WA,Geraldton,Widowed,Gaming
+1964,Female,83,Business and Management,1895,SA,Port Lincoln,Married,Reading
+1965,Male,67,Security and Defense,1980,NSW,Parramatta,Widowed,Collecting
+1966,Female,24,Law and Public Administration,3382,NSW,Parramatta,Married,Knitting
+1967,Female,57,Engineering and Industry,2207,NSW,Parramatta,Single,Collecting
+1968,Male,79,Biotechnology,595,VIC,Wodonga,Married,Traveling
+1969,Female,93,Arts and Design,2377,NSW,Penrith,Single,Camping
+1970,Female,98,Education and Training,2113,VIC,Geelong,Single,Camping
+1971,Female,45,Manufacturing,1647,QLD,Gold Coast,Divorced,Dancing
+1972,Female,65,Aerospace,448,VIC,Ballarat,Married,Playing music
+1973,Female,67,Security and Defense,2644,VIC,Geelong,Single,Knitting
+1974,Female,52,Media and Entertainment,2102,QLD,Townsville,Divorced,Gaming
+1975,Female,24,"Personal Care (Beauty, Spa)",3659,NSW,Penrith,Single,Woodworking
+1976,Female,23,Transportation and Logistics,1496,WA,Bunbury,Single,Writing
+1977,Female,66,Transportation and Logistics,2730,NSW,Newcastle,Divorced,Cooking
+1978,Male,40,Health and Healthcare,2248,NSW,Wollongong,Married,Reading
+1979,Male,14,Education,0,SA,Port Lincoln,Married,Birdwatching
+1980,Male,84,Education and Training,760,NSW,Penrith,Divorced,Volunteering
+1981,Male,11,Education,0,VIC,Wodonga,Single,Yoga
+1982,Female,14,Education,0,NSW,Parramatta,Divorced,Yoga
+1983,Male,51,Transportation and Logistics,1922,NSW,Penrith,Divorced,Astronomy
+1984,Male,84,Transportation and Logistics,1258,VIC,Melbourne,Widowed,Meditation
+1985,Female,65,Engineering and Industry,3077,QLD,Brisbane,Divorced,Writing
+1986,Male,15,Education,0,VIC,Geelong,Married,Birdwatching
+1987,Female,54,"Personal Care (Beauty, Spa)",516,NSW,Penrith,Married,Painting
+1988,Male,81,E-commerce,1384,VIC,Bendigo,Divorced,Collecting
+1989,Female,27,Aerospace,1354,VIC,Geelong,Divorced,Writing
+1990,Female,45,Architecture and Construction,1321,SA,Whyalla,Married,Knitting
+1991,Male,41,Engineering and Industry,3919,NSW,Parramatta,Widowed,Cooking
+1992,Female,22,Media and Entertainment,1523,VIC,Melbourne,Widowed,Writing
+1993,Female,41,Business and Management,1147,WA,Mandurah,Widowed,Volunteering
+1994,Female,80,Energy and Environment,2077,NSW,Parramatta,Divorced,Dancing
+1995,Female,41,Event Management,546,NSW,Penrith,Divorced,Woodworking
+1996,Female,81,Business and Management,3416,QLD,Gold Coast,Married,Hiking
+1997,Female,83,Security and Defense,3948,NSW,Sydney,Single,Painting
+1998,Female,59,Transportation and Logistics,1966,NSW,Sydney,Divorced,Woodworking
+1999,Male,27,Fisheries and Forestry,1426,VIC,Ballarat,Single,Painting
+2000,Male,36,Manufacturing,1553,NSW,Newcastle,Single,Swimming
